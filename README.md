@@ -116,3 +116,4 @@ Here are the sample tweets with negative rating
 Like this, you can perform sentiment analysis using Pig.
 
 I hope that this blog helped you in understanding how to perform sentiment analysis on the views of different people using Pig.
+#lets test
